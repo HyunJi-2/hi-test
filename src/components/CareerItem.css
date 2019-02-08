@@ -1,0 +1,9 @@
+.pro_doctor_info .career .subject {overflow:hidden;width:100%;padding:10px 0 5px}
+.pro_doctor_info .career .subject strong {float:left;width:64px;margin-top:8px}
+.pro_doctor_info .career .subject .inp_txt {float:left;width:728px;margin-right:0;padding-left:10px;height:30px;line-height:30px;background-position:10px -1091px}
+.pro_doctor_info .career .subject .desc_subject {float:left;width:634px;margin-top:8px}
+.pro_doctor_info .career .cont {overflow:hidden;width:100%;padding-bottom:10px}
+.pro_doctor_info .career .cont strong {float:left;width:64px;margin-top:8px}
+.pro_doctor_info .career .cont .tf_area {float:left;width:718px;padding:10px;height:178px;border:1px solid #cdcdd1}
+.pro_doctor_info .career .cont .desc_cont {float:left;width:718px;margin-top:8px}
+.pro_doctor_info .career .btn_delete {float:right}
